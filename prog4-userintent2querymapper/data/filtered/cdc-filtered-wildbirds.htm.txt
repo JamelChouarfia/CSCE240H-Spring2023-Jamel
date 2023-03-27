@@ -1,0 +1,16 @@
+This webpage summarizes the current avian influenza (bird flu) situation both domestically in the United States and globally.
+This is a picture of a male American wigeon duck in flight. On January 14, 2022, USDA announced finding H5N1 bird flu in an American wigeon in South Carolina, marking the first detection of this virus in wild birds in the United States since 2016.
+Avian influenza (bird flu) refers to disease caused by infection with avian  (bird) influenza (flu) Type A viruses. Bird flu viruses can infect the respiratory and gastrointestinal tract of birds and have been identified from more than 100 different species of wild birds around the world. Wild aquatic birds including gulls, terns, and shorebirds, and wild waterfowl such as ducks, geese and swans are considered reservoirs (natural hosts) for bird flu viruses. Most wild birds infected with bird flu viruses are asymptomatic (i.e., do not exhibit signs or symptoms of illness). Some bird flu viruses can infect domestic poultry and other domestic and backyard birds, and outbreaks of bird flu in domestic poultry occur worldwide. For more information:  and the . Some bird flu viruses have infected other mammalian species, and rare, sporadic human infections with some bird flu viruses have occurred (more information is available in the  section).
+*Highly pathogenic avian influenza (HPAI) and Low pathogenic avian influenza (LPAI) are described in the &rdquo; section.
+**Clades are described in the &rdquo; section.
+A pair of northern pintail ducks. Bird flu viruses occur naturally among wild aquatic birds worldwide. Wild aquatic birds include waterbirds (waterfowl) such as ducks, geese, swans, gulls, and terns, and shorebirds, such as storks and plovers.
+*** 'x' refers to avian influenza subtypes where the N' neuraminidase protein number was not determined or reported.
+Highly Pathogenic and Low Pathogenic Avian Influenza A VirusesAvian influenza A viruses are classified into the following two categories: low pathogenicity avian influenza (LPAI) A viruses, and highly pathogenic avian influenza (HPAI) A viruses. [2.55 MB, 64 Pages]. HPAI and LPAI are defined and explained below:
+Both HPAI and LPAI viruses can spread rapidly through poultry flocks. HPAI and LPAI designations do not refer to or correlate with the severity of illness in cases of human infection with these viruses; both LPAI and HPAI A viruses have caused mild to severe illness in infected humans. There are genetic and antigenic differences between the influenza A virus subtypes that typically infect only birds and those that can infect birds and people.
+genetic characterizationclade.Influenza Virus Genome Sequencing and Genetic Characterization.
+The U.S. Department of Interior (DOI) and the United States Department of Agriculture (USDA) are the lead federal agencies for outbreak investigation and control in wild birds, and the USDA is the lead agency for such activities in domestic birds. CDC coordinates with DOI, USDA, and with state health departments on appropriate public health measures and works with animal health colleagues to minimize the public health risk posed by avian influenza A viruses.
+
+
+
+ 
+

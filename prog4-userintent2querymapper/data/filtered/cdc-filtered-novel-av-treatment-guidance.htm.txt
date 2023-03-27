@@ -1,0 +1,28 @@
+For information on the most recent avian influenza developments specific to the United States, please visit the  page.
+This document provides guidance for antiviral treatment of human infection with novel influenza A viruses associated with severe human disease (examples include but are not limited to avian influenza A(H7N9) virus and highly pathogenic avian influenza A(H5N1) and A(H5N6) viruses; visit ).
+This guidance provides recommendations for treatment of novel influenza A virus infections associated with severe human disease in the United States.
+This guidance reflects recently updated novel influenza A case definitions (visit ).  (For guidance on investigation of close contacts of case-patients, visit .)
+These recommendations are based on available data on the treatment of infections caused by influenza viruses, including seasonal, pandemic, and novel influenza A viruses, and expert opinion.
+There are no data from randomized clinical trials of antiviral treatment of outpatients or hospitalized patients with novel influenza A virus infection. In otherwise healthy persons with acute, uncomplicated seasonal influenza virus infection, randomized controlled trials have demonstrated decreased time to symptom improvement with antiviral treatment by a neuraminidase inhibitor (oseltamivir, peramivir, or zanamivir) or the cap-dependent endonuclease inhibitor (baloxavir), when treatment is begun within the first few days of illness []. Clinical trials and meta-analyses of data from randomized controlled trials have shown that antiviral treatment of outpatients can reduce some complications associated with seasonal influenza [,,,,].
+Data from antiviral treatment studies of patients with seasonal influenza have reported that clinical benefit is greatest when antiviral treatment is administered early, especially within 48 hours of illness onset. Among patients hospitalized with seasonal influenza A or B, pandemic 2009 influenza A (H1N1), or highly pathogenic avian influenza A(H5N1) virus infections, observational studies suggest that early treatment reduces disease severity and mortality []. Although earlier antiviral treatment results in greater clinical benefit, observational studies support the use of antiviral treatment in hospitalized patients with seasonal influenza even when started after 48 hours of illness, including in critically ill patients [,]. Among patients with uncomplicated seasonal influenza, one randomized clinical trial in children demonstrated a modest reduction in duration of symptoms and virus shedding in patients initiated 72 hours after illness []. Neuraminidase inhibitor treatment with oseltamivir, peramivir, or zanamivir has been used for severely ill persons infected with A(H7N9) viruses, but their effectiveness for treatment of severe disease caused by avian influenza A virus infections has not been determined [].
+Most avian influenza A(H7N9), A(H5N1), and A(H5N6) viruses are susceptible to the neuraminidase inhibitors (oseltamivir, peramivir and zanamivir) and baloxavir, but are often resistant to the adamantanes (amantadine and rimantadine). Therefore, amantadine and rimantadine are not recommended for treatment of novel influenza A virus infections.
+ 
+For additional guidance on the use of influenza antiviral agents, including dosage recommendations for treatment by age group, please visit the .
+CDC will continue to evaluate new information as it becomes available and will update this guidance as needed. Updated information will be provided on CDC's .
+ Outpatient' in this document refers to any patient in the ambulatory care setting, including emergency departments, urgent care and other clinics.
+ Oral oseltamivir is approved by the FDA for treatment of acute uncomplicated influenza in persons 14 days old. Although use of oral oseltamivir for treatment of influenza in infants less than 14 days old is not part of the FDA-approved indication, it is recommended by the CDC and the American Academy of Pediatrics for treatment of influenza in patients of any age. Inhaled zanamivir is approved for treatment of acute uncomplicated influenza in persons aged 7 years and older. Clinicians may refer to the manufacturer's package inserts for additional information regarding dosing, limitations of populations studied, contraindications, and adverse events. Please visit external icon.
+ 
+. Antiviral treatment recommendations according to case definition category for human infection with novel influenza A viruses associated with severe disease. ()
+
+
+Avian influenza A virus infection in a person that is confirmed by CDC's Influenza Division Laboratory or a CDC designated laboratory using methods mutually agreed upon by CDC and the Council of State and Territorial Epidemiologists (CSTE).
+Recommended for all (hospitalized patients and outpatients)
+
+A person meeting criteria for avian influenza A virus infection below and for whom confirmatory laboratory test results are unknown or pending.
+
+A person meeting criteria for avian influenza A virus infection below and.
+Recommended for all (hospitalized patients and outpatients)
+1 For hospitalized patients and outpatients with severe, progressive, or complicated disease, oral oseltamivir is recommended. Inhaled zanamivir and IV peramivir are not recommended because of the lack of data for these patients. For outpatients presenting 2 days after illness onset with mild-to-moderate illness, oral oseltamivir is recommended. For outpatients with uncomplicated influenza within 2 days of illness onset, oral oseltamivir, inhaled zanamivir, IV peramivir, or oral baloxavir may be used. For specific dosage recommendations for treatment by age group, please visit: .
+
+ 
+
