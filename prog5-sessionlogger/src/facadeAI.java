@@ -155,6 +155,10 @@ public class facadeAI {
 		return statistics.save();
 	}
 	
+	/**
+	 * Saves the chat logs
+	 * @param log The log being saved
+	 */
 	public void addChatLog(String log) {
 		statistics.addChatLog(log);
 	}
