@@ -5,7 +5,7 @@ The AI accesses files stored within the data folder and answer's questions based
 After the chat session is over, data is saved into the chat_sessions.csv file located in the data folder.\
 Chat logs are also saved for future viewing.
 
-To use the program, run bin\mainAI.class inside of a terminal and ask away!\n
+To use the program, run bin\mainAI.class inside of a terminal and ask away!\
 (Use bin\mainExtractor.class for projects 4 and below)
 
 If you want to update the files taken from the CDC website, please be patient as it can take some time to download all the pages.
