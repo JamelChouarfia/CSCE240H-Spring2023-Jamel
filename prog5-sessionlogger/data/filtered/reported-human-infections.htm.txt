@@ -1,0 +1,46 @@
+Human infections with avian influenza A viruses are uncommon but have occurred sporadically in many countries, usually after unprotected exposures (e.g. not using respiratory or eye protection) to infected poultry or virus-contaminated environments and have resulted in mild-to-severe illness with a wide range of symptoms and complications. A small number of human infections with avian influenza A viruses have been attributed to exposure to infected wild birds. For some human infections, the source of the virus infection was not determined. Human infections have occurred with different subtypes of low pathogenic and highly pathogenic avian influenza A viruses. The designation of “low” versus “highly” pathogenic avian influenza A virus refers to specific criteria, including mortality in experimentally infected poultry, and not to the severity of illness with human infections. Clinical illness associated with human infections with avian influenza A viruses does not necessarily correlate with virus pathogenicity in infected birds.
+
+Low Pathogenic Avian Influenza A Virus Infections*
+Subtypes of low pathogenic avian influenza (LPAI) A viruses that have been virologically confirmed to have infected people include A(H6), A(H7), A(H9), and A(H10) viruses.
+
+
+LPAI A(H6N1) virus infection was reported in one person with moderate lower respiratory tract disease in Taiwan in 2013.
+
+
+
+LPAI A(H7N2) virus infection was reported in a small number of people with conjunctivitis (pink eye), mild upper respiratory tract symptoms, or lower respiratory tract disease in the U.K. and U.S. since 2002. Four infections have been identified in the U.S. since 2002, including 2 that resulted from cat-to-human transmission of an LPAI A(H7N2) virus circulating among cats in 2016.
+LPAI A(H7N3) virus infection was reported in a small number of people with conjunctivitis or mild upper respiratory tract symptoms in the U.K. and Canada since 2004.
+LPAI A(H7N4) virus infection was reported in one person with pneumonia in China in 2017.
+LPAI A(H7N7) virus infection was reported in one person with conjunctivitis in the U.K. in 1996.
+LPAI A(H7N9) virus infection was reported in more than 1500 people in China, particularly during epidemics from 2013-2017, including cases exported to Hong Kong, Macau, Malaysia, Taiwan, and Canada. Clinical syndromes have included mild upper respiratory tract symptoms, lower respiratory tract disease, encephalitis, severe pneumonia with respiratory failure, and multi-organ failure. The case fatality proportion in hospitalized patients is approximately 40%. A very small number of people were reported with asymptomatic infection after investigations in China during 2013. The most recent H7N9 virus infection was reported in China in 2019.
+
+
+
+LPAI A(H9N2) virus infections have been reported sporadically in more than 100 people since 1998 in China, and in Hong Kong, Bangladesh, Cambodia, Egypt, India, Oman, Pakistan, and Senegal. Most cases have been in children and have resulted in mild upper respiratory tract illness symptoms, but lower respiratory tract disease including severe pneumonia, and respiratory failure, including a small number of deaths, have been reported.
+
+
+
+LPAI A(H10N3) virus infection was reported in one person with severe pneumonia and respiratory failure in China in 2021, and in another person with severe pneumonia and respiratory failure in China in 2022.
+LPAI A(H10N7) virus infection was reported in a small number of people with conjunctivitis or mild upper respiratory tract symptoms in Egypt in 2004 and Australia in 2010.
+LPAI A(H10N8) virus infection was reported in a small number of people with severe pneumonia with respiratory failure, including a few deaths, in China since 2013.
+
+
+Highly Pathogenic Avian Influenza A Virus Infections*
+Subtypes of highly pathogenic avian influenza (HPAI) A viruses that have been virologically confirmed to have infected people include A(H5) and A(H7) viruses.
+
+
+HPAI A(H5N1) virus infections have been reported in more than 880 people with approximately 50% case fatality proportion since 1997, including 20 cases and 7 deaths in Hong Kong during 1997-2003, and more than 860 cases reported in 21 countries since November 2003. Mild upper respiratory tract symptoms, lower respiratory tract disease, severe pneumonia with respiratory failure, encephalitis, and multi-organ failure have been reported. One case of asymptomatic infection was reported in Vietnam in 2011, and another asymptomatic case was reported in the United Kingdom that occurred in late 2021. The spectrum of illness caused by human infection with current H5N1 bird flu viruses is unknown. Since 2016, a small number of sporadic infections have been reported each year globally. Illness in humans from all bird flu virus infections has ranged in severity from no symptoms or mild illness to severe disease that resulted in death. Total case counts reported since 1997 are available.
+HPAI A(H5N6) virus infections have been reported in more than 80 people in China since 2014 and one case was reported in Laos in 2021. Mild upper respiratory tract symptoms, lower respiratory tract disease, severe pneumonia with respiratory failure, and multi-organ failure have been reported. Case fatality proportion in hospitalized patients is approximately 30%.
+HPAI A(H5N8) virus was isolated from one asymptomatic poultry worker in Russia in 2020.
+
+
+
+HPAI A(H7N3) virus infections have been reported in a small number of people with conjunctivitis since 2004 in Canada and in other countries.
+HPAI A(H7N7) virus infections have been reported in more than 90 people, since the first human infection was identified in the U.S. in 1959; although that infection was associated with hepatitis, most infections have been associated with conjunctivitis. However, mild upper respiratory tract symptoms, lower respiratory tract disease, severe pneumonia with respiratory failure, and multi-organ failure have been reported, including one death. Most reported cases were associated with exposures during widespread poultry outbreaks in the Netherlands in 2003.
+HPAI A(H7N9) virus infections have been reported in China since 2016, including lower respiratory tract disease, severe pneumonia with respiratory failure, and multi-organ failure. The case fatality proportion in hospitalized patients is >40%.
+
+
+Human-to-Human Transmission of Avian Influenza A Viruses
+Human-to-human transmission of avian influenza A viruses is rare. Probable limited, non-sustained, human-to-human transmission has been reported in a small number of people without poultry exposures who had close unprotected exposure to a symptomatic index case of HPAI A(H5N1) virus infection, HPAI A(H7N7) virus infection, or LPAI A(H7N9) virus infection. Most reported cases of probable limited, non-sustained, human-to-human transmission have occurred among blood-related family members after unprotected, prolonged close household exposure to a symptomatic family member. However, a small number of reported cases occurred after unprotected, prolonged close exposure to a very sick family member in a hospital. A few cases of probable limited, non-sustained, human-to-human transmission in a hospital have been reported among unrelated patients after unprotected exposures.
+*Sources: Adapted from Uyeki T and Peiris M. Infectious Disease Clinics of North America 2019; and World Health Organization reports. For the latest summary, case counts of human infections, and risk assessment, see the World Health Organization Influenza at the human-animal interface summary and assessment:  https://www.who.int/teams/global-influenza-programme/avian-influenza/monthly-risk-assessment-summary
+

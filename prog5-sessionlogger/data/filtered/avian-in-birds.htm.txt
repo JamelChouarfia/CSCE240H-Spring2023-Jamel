@@ -1,0 +1,41 @@
+Recommendations for poultry workers and bird outbreak respondersPeople working with poultry with known or possible infections of Highly Pathogenic Avian Influenza A viruses should follow worker protection and personal protective equipment (PPE) recommendations. Guidance is available for hunters pdf icon[297 KB, 2 Pages]external icon, poultry producersexternal icon, and poultry outbreak responders. Biosecurity information is available from USDA’s website pdf icon[297 KB, 2 Pages]external icon.
+MoreAvian influenza refers to disease in birds caused by infection with avian (bird) influenza (flu) Type A viruses. Avian influenza A viruses have been isolated from more than 100 different species of wild birds around the world. These viruses occur naturally among wild aquatic birds worldwide and can infect domestic poultry and other bird and animal species. Wild aquatic birds include waterbirds (waterfowl) such as ducks, geese, swans, gulls, and terns, and shorebirds, such as storks, plovers, and sandpipers. Wild aquatic birds, especially dabbling ducks, are considered reservoirs (hosts) for avian influenza A viruses. Wild aquatic birds can be infected with avian influenza A viruses in their intestines and respiratory tract, but some species, such as ducks, may not get sick. However, avian influenza A viruses are very contagious among birds, and some of these viruses can sicken and even kill certain domesticated bird species, including chickens, ducks and turkeys.
+Infected birds can shed avian influenza A viruses in their saliva, nasal secretions, and feces. Susceptible birds become infected when they have contact with the virus as it is shed by infected birds. They also can become infected through contact with surfaces that are contaminated with virus from infected birds.
+
+Highly Pathogenic and Low Pathogenic Avian Influenza A VirusesAvian influenza A viruses are classified into the following two categories: low pathogenicity avian influenza (LPAI) A viruses, and highly pathogenic avian influenza (HPAI) A viruses. The categories refer to molecular characteristics of a virus and the virus’ ability to cause disease and mortality in chickens in a laboratory setting pdf icon[2.55 MB, 64 Pages]external icon. HPAI and LPAI are defined and explained below:
+
+Low Pathogenic Avian Influenza (LPAI): ?Low pathogenic avian influenza viruses cause either no signs of disease or mild disease in chickens/poultry (such as ruffled feathers and a drop in egg production).?Most avian influenza A viruses are?low pathogenic?and cause few signs of disease in infected wild birds.?In poultry, some low-pathogenic viruses can?mutate into highly pathogenic avian influenza viruses.
+Highly Pathogenic Avian Influenza (HPAI):? Highly pathogenic?avian influenza viruses?cause severe disease and high mortality in infected?poultry.?Only some avian influenza A(H5) and A(H7) viruses are classified as HPAI A viruses, while most A(H5) and A(H7) viruses circulating among birds are LPAI A viruses. HPAI A(H5) or A(H7) virus infections can cause disease that affects multiple internal organs with mortality up to 90% to 100%?in chickens, often within 48 hours.?However, ducks can be infected without any signs of illness. HPAI A(H5) and A(H7) virus infections in poultry?also?can spill back into wild birds, resulting in further geographic spread of the virus as those birds?migrate.?While?some?wild bird?species?can?be infected with?some HPAI A(H5) or A(H7) virus subtypes without appearing sick,?other?HPAI A(H5) and A(H7) virus subtypes can cause severe?disease and?mortality in?some?infected wild birds as well as in infected poultry.
+
+Both HPAI and LPAI viruses can spread rapidly through poultry flocks. HPAI and LPAI designations do not refer to or correlate with the severity of illness in cases of human infection with these viruses; both LPAI and HPAI A viruses have caused mild to severe illness in infected humans. There are genetic and antigenic differences between the influenza A virus subtypes that typically infect only birds and those that can infect birds and people.
+
+
+Global avian influenza surveillance data is available from the World Organization for Animal Health website at Avian Influenza – OIE – World Organisation for Animal Healthexternal icon. Information about recent U.S. outbreaks of avian influenza in birds is available from USDA’s APHIS webpageexternal icon. Additional information about avian influenza surveillance in wild birds is available at the USGS National Wildlife Health Centerexternal icon.
+ Top of Page
+ Avian Influenza in Poultry (Domesticated Birds)
+Domesticated birds (chickens, turkeys, ducks, etc.) may become infected with avian influenza A viruses through direct contact with infected waterfowl or other infected poultry, or through contact with surfaces that have been contaminated with the viruses.
+Avian influenza outbreaks in domesticated birds are of concern for several reasons:
+
+the potential for low pathogenic avian influenza A(H5) and A(H7) viruses to evolve into highly pathogenic avian influenza A(H5) and A(H7) viruses with major agricultural implications
+the potential for rapid spread and significant illness and death among poultry during outbreaks of highly pathogenic avian influenza
+the economic impact and trade restrictions from a highly pathogenic avian influenza outbreak
+the possibility that avian influenza A viruses could be transmitted to humans exposed to infected birds
+
+When avian influenza A(H5) or A(H7) virus outbreaks occur in poultry, depopulation (or culling, also called “stamping out”) of infected flocks is usually carried out. In addition, surveillance of flocks that are nearby or linked to the infected flock(s) and quarantine of exposed flocks with culling if disease is detected, are the preferred control and eradication methods. See Past Outbreaks of Avian Influenza for more information about avian influenza A virus infections in U.S. poultry. More information about avian influenza in poultry in the United States is available through the United States Department of Agriculture’s Animal and Plant Health Inspection Service websiteexternal icon.
+Surveillance for Avian Influenza
+CDC, the United States Department of Agriculture (USDA)external icon, the World Health Organization (WHO)external icon, the World Organization for Animal Health (OIE)external icon, and the Food and Agriculture Organization of the United Nations (FAO)external icon conduct routine surveillance to monitor influenza viruses for changes that may have implications for animal and public health. CDC and WHO surveillance efforts are focused on human health. FAO and OIE are concerned with issues affecting animals, food and agriculture.
+ Top of Page
+
+Related Information
+Current Avian Influenza Situation Summary
+Outbreaks of Avian Influenza A (H5N2), (H5N8), and (H5N1) Among Birds — United States, December 2014–January 2015. MMWR Morb Mortal Wkly Rep 2015;64(Early Release):1
+Infection Risk for Persons Exposed to Highly Pathogenic Avian Influenza A H5 Virus–Infected Birds, United States, December 2014–March 2015 – Volume 21, Number 12—December 2015 – Emerging Infectious Diseases journal – CDC
+Olsen SJ, Rooney JA, Blanton L, Rolfes MA, Nelson DI, Gomez TM, Karli SA, Trock SC, Fry AM. Estimating Risk to Responders Exposed to Avian Influenza A H5 and H7 Viruses in Poultry, United States, 2014-2017. Emerg Infect Dis. 2019 May;25(5):1011-1014. https://pubmed.ncbi.nlm.nih.gov/30741630/external icon
+Uyeki TM, Peiris M. Novel Avian Influenza A Virus Infections of Humans. Infect Dis Clin North Am. 2019 Dec;33(4):907-932.external icon https://pubmed.ncbi.nlm.nih.gov/31668198/external icon
+
+
+
+           Email Address
+            
+          
+        

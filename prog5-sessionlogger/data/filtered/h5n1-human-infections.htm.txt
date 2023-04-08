@@ -1,0 +1,68 @@
+Avian influenza A viruses infect the respiratory and gastrointestinal tracts of birds but rarely infect people. Most previous avian influenza A virus infections of people have occurred following close, prolonged, and unprotected (e.g., no gloves or medical mask) contact with infected poultry or environments contaminated by their saliva, mucous, or feces that can contain these viruses. The risk of human infection depends, in part, on the duration of exposure and the specific exposures encountered.
+Because human infection with avian influenza A virus poses pandemic potential, every case must be investigated to assess whether human-to-human transmission might have occurred. Detailed public health investigations can help determine whether person-to-person spread of an avian influenza A virus occurred. In some clusters of epidemiologically related cases of avian influenza A virus infection, limited, non-sustained, human-to-human transmission is thought to have occurred to persons without poultry exposures. No instances of human-to-human transmission of avian influenza A viruses have been reported in the United States. Below are examples of probable limited, non-sustained, human-to-human transmission of different avian influenza A viruses in other countries.
+Examples of probable person-to-person spread of avian influenza A viruses:
+
+In 1997, the first human infections with highly pathogenic avian influenza A(H5N1) virus were identified in Hong Kong. Serologic studies suggested evidence of probable limited, non-sustained, human-to-human H5N1 virus spread.
+
+
+
+
+(Buxton Bridges C. et al. “Risk of influenza A(H5N1) infection among health care workers exposed to patients with influenza A(H5N1), Hong Kong;”)
+(Katz JM et al. “Antibody response in individuals infected with avian influenza A(H5N1) viruses and detection of anti-H5 antibody among household and social contacts.”)
+
+
+
+
+In 2003, in the Netherlands, there was evidence of limited, non-sustained spread of highly pathogenic avian influenza A(H7N7) virus from two poultry workers to three family members. All three family members had conjunctivitis (eye inflammation) and one also had influenza-like illness after exposure to an ill poultry worker at home.
+
+(M Du Ry van Beest Holle, Meijer, et al, 2005. “Human to Human Transmission of Avian Influenza /H7N7, The Netherlands, 2003.”)
+
+
+
+
+In 2004, in Thailand, there was evidence of limited, non-sustained, person-to-person spread of highly pathogenic avian influenza A(H5N1) virus in family members. Spread of H5N1 virus was associated with prolonged, very close, unprotected contact between an ill child with H5N1 virus infection and her mother and aunt while the child was hospitalized.
+
+(Ungchusak et al, 2005. “Probable Person-to-Person Transmission of Avian Influenza A(H5N1).”)
+
+
+
+
+In 2005, in Indonesia, limited, non-sustained, person-to-person spread of highly pathogenic avian influenza A(H5N1) virus in households among family members could not be excluded among two groups of cases who had no known contact with poultry or other animals but who did have prolonged, unprotected contact with a symptomatic person with H5N1 virus infection.
+
+(Kandun et al, 2006. “Three Indonesian Clusters of H5N1 Virus Infection in 2005.”)
+
+
+
+
+In 2006, in Indonesia, limited, non-sustained, person-to-person-to-person (3rd generation) spread of highly pathogenic avian influenza A(H5N1) virus may have occurred among a family cluster of eight probable or confirmed H5N1 cases.
+
+(Avian influenza – situation in Indonesia – update 16)
+
+
+
+
+In 2007, in China, limited, non-sustained, person-to-person spread of highly pathogenic avian influenza A(H5N1) virus is thought to have occurred between a sick son and his father through prolonged, very close, unprotected exposure during the son’s hospitalization for severe H5N1 illness.
+
+(Wang et al, 2008. “Probable limited person-to-person transmission of highly pathogenic avian influenza A(H5N1) virus in China.”)
+
+
+
+
+Also in 2007, in Pakistan, limited, non-sustained, person-to-person-to-person (3rd generation) spread of highly pathogenic avian influenza A(H5N1) virus is thought to have occurred among brothers.
+
+(WHO, Weekly Epidemiological Record, 2008. Human cases of avian influenza A(H5N1) in North-West Frontier Province, Pakistan, October–November 2007
+
+
+
+
+In 2013, human infections with avian influenza A(H7N9) virus were first reported in China. Yearly epidemics of human infections with H7N9 viruses during 2013-2017 in China were driven mostly by contact with infected poultry at live poultry markets or in backyard poultry flocks. A small percentage of reported cases were associated with probable, limited, non-sustained, person-to-person spread, mostly occurring in households between family members. However, probable, limited, non-sustained spread of H7N9 virus between unrelated persons has been reported in a few cases in hospitals.
+
+(Li, Q et al, 2014. “Epidemiology of human infections with avian influenza A(H7N9) virus in China”)
+(Xiang, N et al, 2016. ”Assessing Change in Avian Influenza A(H7N9) Virus Infections During the Fourth Epidemic — China, September 2015–August 2016“)
+(Chen et al. 2016. “Nosocomial Co-Transmission of Avian Influenza A(H7N9) and A(H1N1)pdm09 Viruses between 2 Patients with Hematologic Disorders;”)
+(Fang et al, 2015. “Nosocomial transmission of avian influenza A(H7N9) virus in China: epidemiological investigation.”
+(Zhang et al, 2017. “A Suspected Person-to-person Transmission of Avian Influenza A (H7N9) Case in Ward.”)
+
+
+
+

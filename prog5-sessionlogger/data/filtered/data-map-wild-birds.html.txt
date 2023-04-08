@@ -1,0 +1,8 @@
+Summary
+
+Counties Affected
+
+Instructions: Counties in which bird flu has been detected in wild birds are marked in purple. On the map, select a state that has an outbreak to zoom in. More information is available about bird flu detections in wild birds by hovering over with the mouse (desktop) or tapping (mobile) the affected county. Download Data
+
+Data Table
+

@@ -1,0 +1,87 @@
+On This Page
+
+About Bird Flu
+
+Wild birds that carry bird flu viruses include waterbirds, like ducks, geese and swans, and shorebirds, like storks. Bird flu viruses can easily spread from wild birds to poultry, like chickens and turkeys. Some wild birds can carry bird flu viruses without appearing sick, but poultry, like chickens and turkeys, can get very sick and die from some bird flu viruses. If you raise backyard poultry or ducks, your birds can get bird flu if they have contact with infected wild birds or share food, sources of water, and environments with them. Most common songbirds or other birds found in the yard, like cardinals, robins, sparrows, blue jays, crows, or pigeons, do not usually carry bird flu viruses that are dangerous to poultry or people.
+
+Human infections with bird flu viruses are rare but can occur, usually after close contact with infected birds. The current risk to the general public from bird flu viruses is low; however, it is important to remember that risk depends on exposure, and people with more exposure might have a greater risk of infection. There is existing federal guidance around bird flu exposures for different groups of people, including people with occupational or recreational exposure, such as hunters [297 KB, 2 pages] and poultry producers, and also for the general public, as well as health care providers.
+
+Recommendations
+
+As a general precaution, people should avoid direct contact with wild birds and observe them only from a distance, if possible. Wild birds can be infected with bird flu viruses without appearing sick. If possible, avoid contact with poultry that appear ill or have died. Avoid contact with surfaces that appear to be contaminated with feces from wild or domestic birds, if possible. CDC has information about precautions to take with wild birds. As a reminder, it is safe to eat properly handled and cooked poultry and poultry products in the United States. The proper handling and cooking of poultry and eggs to an internal temperature of 165?F kills bacteria and viruses, including bird flu viruses.
+
+CDC has guidance for specific groups of people with exposure to poultry, including poultry workers and people responding to poultry outbreaks. If you must handle wild birds or sick or dead poultry, minimize direct contact by wearing gloves and wash your hands with soap and water after touching birds. If available, wear respiratory protection such as a medical facemask. Change your clothing before contact with healthy domestic poultry and birds after handling wild birds, and discard the gloves and facemask, and then wash your hands with soap and water. Additional information is available at Information for People Exposed to Birds Infected with Avian Influenza Viruses of Public Health Concern.
+
+What CDC is Doing
+
+Right now, the H5N1 bird flu situation is primarily an animal health issue. The U.S. Department of Interior and USDA APHIS are the lead federal agencies for this situation. They are respectively responsible for outbreak investigation and control of bird flu in wild birds and in domestic poultry. CDC is the lead federal agency on the human health side.
+Because flu viruses are constantly changing, CDC is monitoring these viruses to look for genetic changes suggesting they might spread more easily to and between people, and cause serious illness in people, or for changes that suggest reduced susceptibility to antivirals, as well as changes in the virus that might mean a new candidate vaccine virus (CVV) should be developed.
+CDC has been monitoring for illness among people exposed to H5N1 virus-infected birds since these outbreaks were detected in wild birds and poultry in the United States in late 2021 and into 2022. CDC’s existing seasonal influenza surveillance systems are well equipped to rapidly detect cases of avian influenza A virus infection, including H5N1 virus, in people. Influenza virus detection assays, which can detect both seasonal and novel influenza A viruses, are used in 128 public health laboratories in all 50 U.S states and 170 laboratories globally. Additionally, there are diagnostic assays to specifically detect the current H5N1 viruses available at 99 public health laboratories in all 50 U.S. states and 129 international laboratories, representing 116 countries.
+CDC, along with our state and local public health partners, also continues to actively monitor people who have been exposed to infected birds and poultry.
+
+One human case of avian influenza A (H5N1) was reported in the United States in a person involved in culling (depopulating) of H5N1 virus-infected poultry in April 2022. This person in Colorado had no respiratory symptoms and only experienced fatigue while participating in poultry culling activities. It is possible that this case did not represent virus infection but rather detection of non-infectious H5N1 virus genetic material in a respiratory specimen following prolonged exposure to infected birds.
+This one H5N1 virus-positive human case does not change the human health risk assessment for the general public, which CDC considers to be low. CDC will continue to monitor closely for signs that the risk to human health has changed. Signals that could raise the public health risk might include multiple reports of H5N1 virus infections in people following exposure to birds or identification of spread from one infected person to a close contact. CDC also is monitoring H5N1 viruses for genetic changes that have been associated with adaptation to mammals, which could indicate the virus is adapting and could spread more readily from birds to people.
+
+H5 in Other Animals
+
+Yes, although H5 bird flu viruses primarily infect different types of wild birds and domestic poultry, H5 bird flu viruses can infect other animals as well. Sporadic H5N1 virus infections of mammals have been reported for 20 years in different countries that have experienced H5N1 outbreaks in poultry or wild birds. H5 bird flu viruses have previously been known to occasionally infect mammals that eat (presumably infected) birds or poultry and mammals that are exposed to environments with a high concentration of virus. These mammals include, but are not limited to, wild or feral animals such as foxes; stray or domestic animals such as cats and dogs; and zoo animals such as tigers and leopards. Recently, sporadic H5 virus infections in mammals, including farmed mink in Spain; sea lions in Peru; and bears, wild foxes, and skunks, have been reported in Canada, the United States and other countries. The reports of H5 bird flu viruses in these mammals in the United States and Canada are not surprising given the widespread outbreaks of H5 bird flu in wild birds.
+
+There is little evidence in the past of bird flu viruses spreading to people via an intermediary animal. In 2016, CDC confirmed one human infection with H7N2 bird flu virus in a person who had close, prolonged unprotected exposure to the respiratory secretions of sick cats infected with H7N2 bird flu virus at a New York City animal shelter. A second human infection with H7N2 bird flu virus was later found in someone who also had exposure to the sick, infected cats. Existing evidence suggests it is unlikely that people would be infected by H5 bird flu virus through contact with H5-virus infected wild, stray, feral, or domestic animals, but it is possible, especially with prolonged and unprotected exposure to infected animals. People who have had direct contact with infected or potentially infected sick or dead animals, including animals that might have eaten H5-virus infected birds, should monitor their health for fever and symptoms of H5 virus infection.
+Signs and Symptoms may include:
+
+Fever (Temperature of 100°F [37.8°C] or greater) or feeling feverish/chills*
+Cough
+Sore throat
+Difficulty breathing/Shortness of breath
+Conjunctivitis (eye tearing, redness, irritation, or discharge from eye)
+Headaches
+Runny or stuffy nose
+Muscle or body aches
+Diarrhea
+
+*Fever may not always be present
+Call your state/local health department immediately if you develop any of these signs or symptoms during the 10-days after your exposure to an infected animal. Discuss your potential exposure and ask about testing for H5 virus. If testing is indicated, isolate as much as possible until test results come back and/or you have recovered from your illness. Additionally, close contacts (family members, etc.) of people who have been exposed to H5 bird flu viruses should also monitor their health for 10 days after their exposure for signs and symptoms of illness. If close contacts of people who have been exposed to H5 bird flu viruses develop signs and symptoms of illness, they should also contact their state health department.
+
+CDC is actively looking into this situation to assess potential human health implications, including looking at H5 viruses found in these mammals to see whether these viruses have undergone any changes seen in the past that have been associated with bird flu viruses spreading easily among poultry, infecting people more easily, and causing severe illness in people. The detection of the current predominant H5 bird flu virus in mammals, including farmed mink, sea lions, bears, foxes, and skunks, does not change the human health risk assessment for the general public, which CDC considers to be low. Right now, the H5 bird flu virus situation is primarily an animal health issue. The U.S. Department of Interior (DOI) and U.S. Department of Agriculture (USDA) are the lead federal departments for H5 virus infections in animals. In general, people should avoid wild birds and animals that appear sick or dead and also keep their pets away from sick or dead birds and animals.
+
+No. Analyses of the H5N1 viruses from farmed mink detected in Spain have not found any indications that would point to increased ability to infect humans. H5N1 viruses do not currently have an ability to easily infect the human upper respiratory tract, which would be needed to increase the risk of transmission to people. CDC’s partner agencies have characterized the similarity of H5N1 viruses from farmed mink detected in Spain to H5N1 candidate vaccine viruses developed at CDC. These data show that vaccine viruses currently available for vaccine manufacturing are expected to provide cross-protection against viruses like the ones detected during the mink outbreak.
+
+No. If there was mink-to-mink spread of H5N1 virus, assessment of the risk to public health would depend upon whether there were any genetic changes in the virus, and what those changes were compared with H5N1 viruses circulating in birds to date. While there was a genetic change in the H5N1 viruses detected during the outbreak in farmed mink in Spain that may have increased the amount of virus in infected mink, this change is unlikely to make it easier for H5N1 virus to transmit to humans. The genomic sequences of the H5N1 viruses isolated from mink were very similar to H5N1 viruses found in birds. Humans lack the type of receptor in the upper respiratory tract that H5N1 viruses use to cause infection. Limited mink-to-mink spread of H5N1 virus, especially in an environment with close contact among infected animals or following repeated exposure to infected birds, would not be surprising.
+
+The wide geographic spread of H5N1 viruses in wild birds, poultry, and some other mammals could create additional opportunities for people to be exposed to these viruses, particularly through direct or close contact with infected birds. Therefore, there could be an increase in sporadic human infections resulting from poultry exposures, even if the risk of transmission of these viruses from birds to people has not increased.
+
+CDC has developed an H5 candidate vaccine virus (CVV) that is nearly identical or, in many samples, identical to the hemagglutinin (HA) protein of recently detected clade 2.3.4.4b H5N1 viruses in birds and mammals (including the virus identified in the mink outbreak). This H5 CVV could be used to produce a vaccine for people, if needed, and would provide good protection against the currently circulating H5N1 viruses in birds. This H5 CVV has been shared with vaccine manufacturers.
+
+People with avian influenza A virus infection are recommended to be treated as soon as possible with antiviral drugs that are FDA-approved for treatment of seasonal influenza. Such antiviral drugs include oseltamivir, zanamivir, peramivir, and baloxavir. Antiviral treatment works best when started as soon as symptoms begin. For patients with suspected or confirmed H5N1 virus infection who are not hospitalized, antiviral treatment with oseltamivir is recommended as soon as possible. For patients who require hospitalization, antiviral treatment with oseltamivir is recommended as soon as possible, and clinical management is focused on supportive care of complications, including advanced organ support in an intensive care unit for patients with severe pneumonia.
+
+State and local governments have different policies for collecting dead and testing sick or dead animals, so check with your state health department, state veterinary diagnostic laboratory, or state wildlife agency for information about reporting animals that look sick or are dead in your area.
+
+There are a number of state and federal partners* involved in monitoring and reporting animals with confirmed H5 virus infections, and potentially exposed people, including**:
+
+USDA APHIS Veterinary Services
+USDA APHIS Wildlife Services
+USDHHS Centers for Disease Control and Prevention
+USDOI US Geological Survey
+USDOI US Fish and Wildlife Services
+National Forest Service
+National Park Service
+In affected states:
+
+State Departments of Agriculture
+State Departments of Animal Health
+State Departments of Environmental Conservation
+State Departments of Fish and Wildlife
+State Departments of Natural Resources
+
+Divisions of Game, Fish, and Parks
+Divisions of Wildlife Resources
+State Parks
+
+
+State Departments of Public Health
+
+
+
+*Names and groups involved vary by state and federal response authorities.
+**Other state and federal response authorities may be involved depending on where the sick or infected animals are located.
+

@@ -1,0 +1,309 @@
+		
+			On This Page
+			
+				
+					Background and PurposeRecommendations for Surveillance, Testing, and InvestigationInfection Control when Collecting SpecimensWhen Specimens Should Be CollectedPreferred Respiratory SpecimensSwabsStoring Clinical SpecimensShipping Clinical Specimens to State Public Health LaboratoriesDiagnostic TestingTesting at State Health DepartmentsAntiviral TreatmentShipping Clinical Specimens to CDC				
+			
+		
+		
+For information on the most recent avian influenza developments specific to the United States, please visit the Current Situation Summary page.
+ 
+ Background and Purpose
+Novel influenza A viruses are influenza A viruses that have infected people but are different from seasonal influenza A viruses that are currently circulating among humans. Novel influenza A viruses are predominantly of avian or swine origin. The clinical spectrum of human infection with avian influenza A viruses varies considerably: from asymptomatic infection to mild illness, including conjunctivitis, fever, and cough; to severe illness, including fulminant pneumonia, acute respiratory distress syndrome (ARDS) and multi-organ failure resulting in death.
+This document provides interim guidance for clinicians and public health professionals in the United States on appropriate specimen collection and diagnostic testing for patients who might be infected with novel influenza A viruses with the potential to cause (or are known to have caused) severe illness in people. More information about specific novel influenza A viruses, including those that have caused illness in humans, is available here.
+The spread of highly pathogenic avian influenza (HPAI) A(H5) or A(H7N)  viruses in North America among wild birds or poultry might increase the likelihood of human infection with these viruses in the United States. CDC believes that the current risk to the general public’s health from avian influenza A viruses in the U.S. is low. However, because the recently detected HPAI A(H5N1) viruses are related to viruses that have caused severe disease in infected humans, they should be regarded as having the potential to cause severe disease in humans until shown otherwise. Current case definitions and recommendations for patient testing and treatment should also be consulted.
+Following detection of avian influenza A viruses among US wild birds or poultry with the potential to cause severe illness in humans, CDC recommends maintaining the enhanced surveillance efforts practiced currently by state and local health departments, hospitals, and clinicians to identify people at increased risk for novel influenza A virus infection. Clinicians should notify their state health department immediately if they decide to test a patient for novel influenza A virus infection so that appropriate testing and follow up of contacts is initiated.
+CDC should be notified immediately in the event that any clinical specimens from suspected patients test positive for novel influenza A virus or if the testing of clinical specimens from suspected cases are inconclusive. Human infection with a novel influenza A virus is a nationally notifiable condition.
+CDC will update this guidance as additional information becomes available.
+ Recommendations for Surveillance, Testing, and Investigation
+Clinicians and public health personnel should consider the following for surveillance and testing:
+
+Consider the possibility of infection with novel influenza A viruses with the potential to cause severe disease in humans in patients who present with influenza-like illness (ILI) or acute respiratory infection (ARI) symptoms and who have had recent direct or close contact (particularly unprotected exposure, e.g., without use of respiratory protection and eye protection)1<10 days prior to illness onset to the following birds with known or suspected avian influenza A virus infection:
+
+Domestic poultry (e.g., sick or dead chickens or turkeys)
+Captive birds of prey (e.g., sick, dead, or well-appearing falcons that have had contact with wild aquatic birds)
+Wild aquatic birds (e.g., sick, dead, or well-appearing ducks, geese, swans).
+
+
+If infection with a novel influenza A virus with the potential to cause severe disease in humans is suspected, respiratory specimens should be collected while following recommended infection control precautions. The state health department should be notified as soon as possible, and respiratory specimens should be sent to the state health department for immediate testing (see guidance below). More information is available on Case Definitions.
+If infection with a novel influenza A virus with the potential to cause severe disease in humans is suspected, state health departments are encouraged to initiate a public health investigation with animal health partners and should notify CDC promptly.
+
+1 Exposure, especially unprotected exposure (e.g., without use of respiratory protection and eye protection) may include: direct contact with birds (e.g., handling, slaughtering, defeathering, butchering, preparation for consumption); or direct contact with surfaces contaminated with feces or bird parts (carcasses, internal organs, etc.); or prolonged close exposure to birds.
+2 For questions or concerns about possible human infection in patients with exposures to birds not listed here, please contact CDC. Exposures that occur in geographic regions in the United States where newly detected HPAI A(H5) viruses have been identifiedpdf iconexternal icon are of most concern.
+Infection Control when Collecting Specimens
+Standard, contact, use of eye protection, and airborne precautions are recommended for management of patients with suspected or laboratory-confirmed novel influenza A virus infection; this includes collection of respiratory specimens. Practitioners should adhere to infection control precautions recommended for novel influenza A viruses known to cause severe disease in humans. See Interim Guidance for Infection Control Within Healthcare Settings When Caring for Confirmed Cases, Probable Cases, and Cases Under Investigation for Infection with Novel Influenza A Viruses Associated with Severe Disease for more information and consult CDC for specific case-by-case infection control recommendations if needed.
+ When Specimens Should Be Collected
+Specimens should be obtained for novel influenza A virus testing as soon as possible after illness onset, ideally within 7 days of illness onset. However, as some persons who are infected with seasonal influenza viruses are known to shed virus for longer periods (e.g., children and immunocompromised persons), specimens should be tested for novel influenza A virus even if obtained after 7 days from illness onset. Prolonged shedding of influenza viruses in the lower respiratory tract has been documented for critically ill patients with highly pathogenic avian influenza A(H5N1) virus and avian influenza A(H7N9) virus infections. The duration of shedding of novel influenza A viruses in humans is largely unknown, and there are currently limited data describing prolonged shedding of people infected with these viruses.
+ Top of Page
+ Preferred Respiratory Specimens
+The following respiratory specimens should be collected as soon as possible after illness onset: (i) a nasopharyngeal swab, or (ii) a nasal aspirate or wash, or (iii) two swabs combined into one viral transport media vial (e.g., a nasal or nasopharyngeal swab combined with an oropharyngeal swab). If these specimens cannot be collected, a single nasal, or oropharyngeal swab is acceptable. For patients with severe lower respiratory tract illness, a lower respiratory tract specimen (e.g., an endotracheal aspirate or bronchoalveolar lavage fluid) should be collected (these specimens have a higher yield for detecting HPAI A(H5N1) and A(H7N9) viruses and may facilitate detection of other novel avian influenza A viruses). Specimens should be placed into sterile viral transport media and immediately placed on refrigerant gel-packs or at 4°C (refrigerator) for transport to the laboratory.
+To increase the potential for novel influenza A virus detection, multiple respiratory specimens from different sites should be obtained from the same patient on at least two consecutive days for hospitalized patients.
+ Swabs
+Swab specimens should be collected using swabs with a synthetic tip (e.g., polyester or Dacron®) and an aluminum or plastic shaft. Swabs with cotton tips and wooden shafts are not recommended. Specimens collected with swabs made of calcium alginate are not acceptable. The swab specimen collection vials should contain 1-3ml of sterile viral transport medium (e.g., containing protein stabilizer, antibiotics to discourage bacterial and fungal growth, and buffer solution).
+ Storing Clinical Specimens
+Clinical specimens should be placed at ?-20°C (for no more than 7 days) or at ?-70°C and transported promptly. Avoid freezing and thawing specimens.
+ Shipping Clinical Specimens to State Public Health Laboratories
+Clinical specimens sent to state public health laboratories should be shipped in the appropriate packaging and according to instructions by the laboratory. Store frozen at ?-20°C (for no more than 7 days) or at ?-70°C and ship on dry ice. Avoid freezing and thawing specimens because viability of some viruses from specimens that were frozen and then thawed is greatly diminished. All specimens should be labeled clearly and include information requested by the local or state public health laboratory.
+ Top of Page
+ Diagnostic Testing
+The performance of current Food and Drug Administration (FDA) cleared diagnostic tests for detecting influenza viruses in respiratory specimens has been demonstrated for seasonal human influenza A and B viruses as described by the manufacturer’s package insert. Performance has not been demonstrated with most novel influenza A viruses. Almost all FDA-cleared influenza diagnostic tests do not specifically identify infection with avian influenza A viruses or distinguish between infection with seasonal influenza A or novel influenza A viruses. Although some diagnostic assays may detect the presence of some novel influenza A viruses, a negative result should not be used to rule out novel influenza A virus infection when testing possible human cases. Testing of symptomatic human cases of suspected novel influenza A virus infection should be referred to the nearest public health laboratory.
+Existing, commercially available FDA-cleared molecular assays [e.g., Real-Time RT-PCR (rRT-PCR)] may fail to detect novel influenza A viruses or may detect with results that indicate “influenza A positive”, but with subtype not identified.  For these assays a novel influenza A virus may give an influenza A “unsubtypeable” result. Clinicians and laboratorians using molecular assays that can detect all currently circulating influenza A virus subtypes (i.e., “seasonal influenza” subtypes) who identify an unsubtypeable result should contact CDC and their state or local public health laboratory for additional testing (see below).
+Rapid influenza diagnostic tests (RIDTs) and immunofluorescence assays are antigen detection tests that only identify whether an influenza A virus is detected and have unknown sensitivity and specificity to detect human infection with novel influenza A viruses in respiratory specimens. Some studies suggest that antigen detection tests have low sensitivity to detect HPAI A(H5N1) viruses. Therefore, negative results from either type of test do not exclude novel influenza A virus infection, especially in patients with signs and symptoms suggestive of influenza. A negative test result could be a false negative and should not be used as a final diagnostic test for influenza, including novel influenza A virus infection. These tests may yield a positive influenza A result for a specimen containing novel influenza A virus but cannot identify the subtype and cannot distinguish novel influenza A virus from seasonal influenza A virus infection. Therefore, testing by rRT-PCR is recommended at state health laboratories for any patient with suspected novel influenza A virus infection.
+Clinicians should always consider diagnostic testing for other respiratory pathogens that can cause acute febrile respiratory illness depending on the local epidemiology of circulating respiratory viruses (e.g., SARS-CoV-2) since novel influenza A virus infections of humans are very rare, even in exposed persons.
+ Testing at State Health Departments
+Clinicians should notify their local and state health department immediately when they wish to test a patient for infection with novel influenza A viruses. Specimens to be tested for novel influenza A viruses should be sent first to the local or state public health laboratory.
+Testing can be performed by public health laboratories on a portion of the specimen, while a portion of the sample should be reserved in case there is a need to ship it to CDC. CDC should be notified immediately in the event that any clinical specimens from suspected cases test positive for any novel influenza A virus [e.g., LPAI or HPAI A(H7N9), HPAI A(H5N1), HPAI A(H5N6) or other avian A(H5) viruses, or variant influenza A viruses2 such as A(H3v)], and clinical specimens should be shipped to CDC for confirmatory testing.
+The CDC Human Influenza Real-Time RT-PCR Flu Diagnostic Panel (CDC Flu rRT -PCR Dx Panel) testing algorithms should be used as described in the package insert to rule out seasonal influenza A or B virus infection. Public Health officials should contact CDC immediately if they obtain unsubtypeable results when testing an influenza A virus positive specimen.
+Specimens that are unsubtypeable or that test presumptive positive for novel influenza A virus at the state public health laboratory should be sent to CDC, Influenza Division, Virology Surveillance and Diagnosis Branch Laboratory for confirmatory testing. Laboratories should not attempt to isolate novel influenza A viruses using viral culture.
+The following protocol may be used when testing for novel influenza A viruses with the potential to cause severe disease in humans:
+
+All state public health laboratories should use the CDC Flu rRT-PCR Dx Panel to screen specimens for InfA, InfB, and RP. Testing for other etiologies should be considered if influenza testing is negative, based upon the local epidemiology of pathogens causing acute respiratory illness (e.g., SARS-CoV-2).
+State public health laboratories should test all InfA-positive specimens with the CDC Influenza A Subtyping kit using all primer/probe sets: H3, pdmInfA and pdmH1. Detailed guidance for testing can be found in the influenza surveillance diagnostic testing algorithm disseminated recently by Association of Public Health Laboratories pdf icon[27 KB, 1 page].
+For specimens collected from patients with suspected infection with HPAI A(H5) viruses), testing should be performed using the CDC H5 primer/probe set. Specimens that are positive for A(H5) virus by rRT-PCR at the state health department should be sent to CDC Influenza Division for additional testing as soon as possible.
+
+2 Influenza A viruses that normally circulate in pigs are termed “variant viruses” when identified in infected humans.
+ Antiviral Treatment
+Empiric antiviral treatment should be started as soon as possible to all patients with possible infection with novel influenza A viruses with the potential to cause severe disease in humans. Antiviral treatment should not be withheld or delayed pending collection of specimens or laboratory testing. Choice of antiviral drug depends upon clinical severity. For outpatients with uncomplicated mild illness, treatment with a neuraminidase inhibitor (oral oseltamivir, inhaled zanamivir, IV peramivir) or oral baloxavir can be used. For outpatients with severe, progressive, or complicated illness, or for hospitalized patients, oral oseltamivir should be administered. For information on dosing and duration of antiviral therapy, see CDC’s interim guidance on the use of antiviral medication for treatment of human infections with novel influenza A viruses associated with severe human disease.  For management of patients with laboratory-confirmed avian influenza A virus infection who are hospitalized with severe pneumonia, the CDC Influenza Division should be consulted.
+ Top of Page
+ Shipping Clinical Specimens to CDC
+Specimens to be tested for novel influenza A virus that are shipped from state public health laboratories to CDC should include all information required for seasonal influenza surveillance isolate or specimen submission.
+Before sending specimens, state and local health departments should contact the CDC Influenza Division Epidemiology and Prevention Branch at (404) 639-3747 (Monday – Friday, 8:30 AM – 5:00 PM or the on-call epidemiologist at (770) 488-7100 (all other times) or flusupport@cdc.gov. 
+Specimen Submission Form
+Ship specimens to CDC at the following address:
+Virology, Surveillance and Diagnosis Branch
+
+ATTN: John Barnes Unit 198
+
+Influenza Division, NCIRD
+
+Centers for Disease Control and Prevention
+
+1600 Clifton Road NE MS G-16
+
+Atlanta, GA 30329
+ Top of Page
+
+
+
+guidances – potential and severe
+
+
+
+
+Avian influenza A viruses with the potential to cause severe human disease currently include the following viruses detected in wild and domestic birds in the United States beginning in December 2014:
+
+Highly pathogenic avian influenza A (H5N2) virus
+Highly pathogenic avian influenza A (H5N8) virus
+Highly pathogenic avian influenza A (H5N1) virus
+Avian influenza A (H7N8) virus
+
+
+
+
+
+Avian influenza A viruses associated with severe human disease currently include the following:
+
+Low pathogenic avian influenza A (H7N9) virus
+Highly pathogenic Asian-origin avian influenza A (H5N1) virus
+
+
+
+
+
+
+
+
+guidances – potential and severe
+
+
+
+Guidance Type
+
+
+Viruses
+
+
+
+Summary for Clinicians
+Summary of guidance for all viruses that have the potential to cause severe disease
+
+
+Testing and Reporting
+Guidance for all viruses that have the potential to cause severe disease
+
+
+Case Definitions
+HPAI H5 in the United States
+
+
+Infection Control
+See guidance for viruses associated with severe disease
+
+
+Treatment
+See guidance for viruses associated with severe disease
+
+
+Chemoprophylaxis of Persons Exposed to Birds
+Guidance for all viruses that have the potential to cause severe disease
+
+
+Chemoprophylaxis of Followup of Close Contacts
+See guidance for viruses associated with severe disease
+
+
+
+
+
+
+
+
+guidances – potential and severe
+
+
+
+Guidance Type
+
+
+Viruses
+
+
+
+Summary for Clinicians
+Not available
+
+
+Testing and Reporting
+Guidance for all viruses that are associated with severe disease
+
+
+Case Definitions
+H7N9
+Asian-lineage H5N1
+
+
+Infection Control
+Guidance for all viruses that are associated with severe disease
+
+
+Treatment
+Guidance for all viruses that are associated with severe disease
+
+
+Chemoprophylaxis of Persons Exposed to Birds
+Guidance for all viruses that are associated with severe disease
+
+
+Chemoprophylaxis and Followup of Close Contacts
+Guidance for all viruses that are associated with severe disease
+
+
+
+
+
+
+
+
+
+
+Avian influenza A viruses with the potential to cause severe human disease currently include the following viruses detected in wild and domestic birds in the United States beginning in December 2014:
+
+Highly pathogenic avian influenza A (H5N2) virus
+Highly pathogenic avian influenza A (H5N8) virus
+Highly pathogenic avian influenza A (H5N1) virus
+Avian influenza A (H7N8) virus
+
+
+guidances – potential and severe
+
+
+
+Guidance Type
+
+
+Viruses
+
+
+
+Summary for Clinicians
+Summary of guidance for all viruses that have the potential to cause severe disease
+
+
+Testing and Reporting
+Guidance for all viruses that have the potential to cause severe disease
+
+
+Case Definitions
+HPAI H5 in the United States
+
+
+Infection Control
+See guidance for viruses associated with severe disease
+
+
+Treatment
+See guidance for viruses associated with severe disease
+
+
+Chemoprophylaxis of Persons Exposed to Birds
+Guidance for all viruses that have the potential to cause severe disease
+
+
+Chemoprophylaxis of Followup of Close Contacts
+See guidance for viruses associated with severe disease
+
+
+
+Avian influenza A viruses associated with severe human disease currently include the following:
+
+Low pathogenic avian influenza A (H7N9) virus
+Highly pathogenic Asian-origin avian influenza A (H5N1) virus
+
+
+guidances – potential and severe
+
+
+
+Guidance Type
+
+
+Viruses
+
+
+
+Summary for Clinicians
+Not available
+
+
+Testing and Reporting
+Guidance for all viruses that are associated with severe disease
+
+
+Case Definitions
+H7N9
+Asian-lineage H5N1
+
+
+Infection Control
+Guidance for all viruses that are associated with severe disease
+
+
+Treatment
+Guidance for all viruses that are associated with severe disease
+
+
+Chemoprophylaxis of Persons Exposed to Birds
+Guidance for all viruses that are associated with severe disease
+
+
+Chemoprophylaxis and Followup of Close Contacts
+Guidance for all viruses that are associated with severe disease
+
+
+
+
+
+           Email Address
+            
+          
+        

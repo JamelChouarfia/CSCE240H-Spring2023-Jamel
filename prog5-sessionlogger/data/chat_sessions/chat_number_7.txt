@@ -1,0 +1,24 @@
+ChatBOT: Hello, I am here to answer any questions you have about the Avian Flu virus. Please ask away!
+
+User: hi
+
+ChatBOT: Hello!
+
+User: what cdc does
+
+ChatBOT: Here is what I have for that
+
+
+CDC works to improve global control and prevention of seasonal and novel influenza, including avian influenza viruses, and works to improve influenza pandemic preparedness and response. In collaboration with domestic and global partners, CDC’s Influenza Division [1.1 MB, 2 pages]:
+
+Builds surveillance and response capacity.
+Monitors and assesses influenza viruses and illness.
+Improves vaccines and other interventions.
+Applies research to provide science-based enhancement of prevention and control policies and programs.
+
+
+Preparing for an Influenza Pandemic A CDC PerspectiveLow Resolution Video
+
+User: bye
+
+ChatBOT: Goodbye!

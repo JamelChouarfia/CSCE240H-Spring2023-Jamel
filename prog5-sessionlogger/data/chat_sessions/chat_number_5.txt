@@ -1,0 +1,12 @@
+
+User: hi
+
+ChatBOT: Hello! What would you like to learn today?
+
+User: what cdc does
+
+ChatBOT: Here is what I have for that
+
+User: bye
+
+ChatBOT: Goodbye!

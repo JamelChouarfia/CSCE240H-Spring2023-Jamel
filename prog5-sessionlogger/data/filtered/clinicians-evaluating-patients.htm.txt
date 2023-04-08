@@ -1,0 +1,257 @@
+This document briefly summarizes important clinical information related to avian influenza A viruses of public health concern and CDC’s recommendations for patient evaluation, treatment, and testing.
+For complete guidance, go to:
+
+Infection Control Within Healthcare Settings for Patients with Novel Influenza A Viruses.
+Specimen Collection and Testing for Patients with Novel Influenza A Viruses with Potential to Cause Severe Disease in Humans.
+Use of Antiviral Medications for Treatment of Human Infections with Novel Influenza A Viruses.
+
+Background
+Avian influenza A viruses circulate among wild aquatic birds worldwide and can infect domestic poultry and other bird and animal species to cause disease referred to as avian influenza. Some avian influenza A viruses cause high morbidity and mortality in infected poultry, while others cause no illness or only mild disease in poultry. Some avian influenza A viruses have caused rare, sporadic infections in people, resulting in human illness ranging from mild to severe respiratory disease. These avian influenza A viruses are of public health concern because they can cause infection resulting in illness in people and because of their pandemic potential if a virus acquires the ability for sustained human-to-human transmission. Some clusters of limited, non-sustained human-to-human transmission of avian influenza A viruses have been reported. People who are exposed to poultry or wild aquatic birds infected with avian influenza A viruses or associated contaminated environments may become infected with these viruses. People involved in poultry outbreak response activities and others with exposures to infected birds or contaminated material, surfaces, or water may be at risk of avian influenza A virus infection. CDC recommends that people with these exposures monitor their health for any signs and symptoms for 10 days after their exposure and to call their health department if they develop illness. Health departments may ask responders to seek care and/or testing for avian influenza A virus infection, including specific testing for avian influenza A viruses.
+Summary Recommendations
+Recommended actions for patients considered to have recent exposure to avian influenza A viruses.
+If signs/symptoms compatible with avian influenza A virus infection are present:
+
+Isolate patient and follow infection control recommendations below.
+Initiate empiric antiviral treatment as soon as possible.
+Notify state/local health department.
+Collect respiratory specimens from the patient to test for avian influenza A viruses at the state health department.
+
+ If signs/symptoms compatible with avian influenza A virus infection are not present:
+
+Follow standard health care facility infection control practices/protocols.
+Investigate other potential causes of the patient’s signs and symptoms.
+Contact state/local health department with any questions or concerns.
+
+Signs/Symptoms of avian influenza A virus infection in humans: Signs/symptoms may include uncomplicated upper respiratory tract signs and symptoms also referred to as influenza-like illness (ILI) [fever ?100°F plus cough or sore throat], fever (temperature of 100ºF [37.8ºC] or greater) or feeling feverish, cough, sore throat, runny or stuffy nose, muscle or body aches, headaches, fatigue, eye redness (or conjunctivitis), shortness of breath or difficulty breathing. Less common signs and symptoms are diarrhea, nausea, vomiting, or seizures. It is important to remember that infection with influenza viruses, including avian influenza A viruses, does not always cause fever. Fever may not occur in infected persons of any age, particularly in persons aged 65 years and older or people with immunosuppression. The absence of fever should not supersede clinical judgment when evaluating a patient for illness compatible with avian influenza A virus infection.
+Infection prevention and control recommendations: Standard Precautions, plus Contact and Airborne Precautions, including the use of eye protection, are recommended when evaluating patients for infection with avian influenza A viruses. If an airborne infection isolation room (AIIR) is not available, isolate the patient in a private room. Health care personnel should wear recommended personal protective equipment (PPE) when providing patient care. These recommendations are consistent with existing infection control guidance for care of patients who might be infected with a novel influenza A virus associated with severe disease. For more information on recommended infection prevention and control measures, please visit Infection Control Within Healthcare Settings for Patients with Novel Influenza A Viruses.
+Laboratory testing recommendations: If signs or symptoms consistent with infection with avian influenza A virus are present in a patient with recent exposure to infected birds or contaminated environments, respiratory specimens should be collected for molecular testing (RT-PCR) for influenza viruses, including avian influenza A viruses. For outpatients, upper respiratory tract specimens should be collected. If conjunctivitis is present, conjunctival swabs should be collected. Patients who are severely ill should have both upper and lower respiratory tract specimens collected for influenza testing. For information on specimen collection, infection prevention and control recommendations when collecting specimens, and influenza diagnostic testing, please visit Specimen Collection and Testing for Patients with Novel Influenza A Viruses with Potential to Cause Severe Disease in Humans. Rapid influenza diagnostic tests are not a reliable indicator of avian influenza A virus infection, and the results should not be used to guide infection control or antiviral treatment decisions. Both commercially available rapid influenza diagnostic tests and most influenza molecular assays do not distinguish between infection with seasonal influenza A viruses and avian influenza A viruses. Testing for avian influenza A viruses must be performed at state health department laboratories, and CDC. Testing for other potential causes of acute respiratory illness should also be considered depending upon the local epidemiology of circulating respiratory viruses, including SARS-CoV-2. 
+Treatment recommendations: Initiation of antiviral treatment with a neuraminidase inhibitor is recommended as soon as possible for any patient with suspected or confirmed infection with an avian influenza A virus. This includes patients who are confirmed cases, probable cases, or cases under investigation, even if more than 48 hours has elapsed since illness onset and regardless of illness severity (outpatients or hospitalized patients). Treatment with oral or enterically administered oseltamivir (twice daily x 5 days) is recommended regardless of time since onset of symptoms. If the patient has been sick for 2 days or less, oral baloxavir treatment is an option. Antiviral treatment should not be delayed while waiting for laboratory test results. If molecular testing is negative for novel avian influenza A virus infection and other influenza viruses, but influenza virus infection is still suspected in a patient who is severely ill, antiviral treatment should be continued and additional respiratory specimens should be collected for repeat influenza testing. For patients who are not hospitalized, if molecular testing is negative for avian influenza A virus and other influenza viruses, antiviral treatment can be discontinued. For more information on treatment recommendations, please visit Use of Antiviral Medications for Treatment of Human Infections with Novel Influenza A Viruses.
+More information on CDC’s web site:
+Avian Influenza Guidance
+
+Avian influenza A virus infections in humans are of public health concern, not only because of the illness they might cause, but because of their pandemic potential if they were to change to spread easily from person-to-person. Avian influenza A virus infections can cause a wide range of illness, from mild to severe. Some avian influenza A viruses have been associated with greater numbers of human infections and more serious illnesses in people and therefore may pose a greater public health risk. Visit: More Information on Bird Flu Infections in People
+
+
+
+guidances – potential and severe
+
+
+
+
+Avian influenza A viruses with the potential to cause severe human disease currently include the following viruses detected in wild and domestic birds in the United States beginning in December 2014:
+
+Highly pathogenic avian influenza A (H5N2) virus
+Highly pathogenic avian influenza A (H5N8) virus
+Highly pathogenic avian influenza A (H5N1) virus
+Avian influenza A (H7N8) virus
+
+
+
+
+
+Avian influenza A viruses associated with severe human disease currently include the following:
+
+Low pathogenic avian influenza A (H7N9) virus
+Highly pathogenic Asian-origin avian influenza A (H5N1) virus
+
+
+
+
+
+
+
+
+guidances – potential and severe
+
+
+
+Guidance Type
+
+
+Viruses
+
+
+
+Summary for Clinicians
+Summary of guidance for all viruses that have the potential to cause severe disease
+
+
+Testing and Reporting
+Guidance for all viruses that have the potential to cause severe disease
+
+
+Case Definitions
+HPAI H5 in the United States
+
+
+Infection Control
+See guidance for viruses associated with severe disease
+
+
+Treatment
+See guidance for viruses associated with severe disease
+
+
+Chemoprophylaxis of Persons Exposed to Birds
+Guidance for all viruses that have the potential to cause severe disease
+
+
+Chemoprophylaxis of Followup of Close Contacts
+See guidance for viruses associated with severe disease
+
+
+
+
+
+
+
+
+guidances – potential and severe
+
+
+
+Guidance Type
+
+
+Viruses
+
+
+
+Summary for Clinicians
+Not available
+
+
+Testing and Reporting
+Guidance for all viruses that are associated with severe disease
+
+
+Case Definitions
+H7N9
+Asian-lineage H5N1
+
+
+Infection Control
+Guidance for all viruses that are associated with severe disease
+
+
+Treatment
+Guidance for all viruses that are associated with severe disease
+
+
+Chemoprophylaxis of Persons Exposed to Birds
+Guidance for all viruses that are associated with severe disease
+
+
+Chemoprophylaxis and Followup of Close Contacts
+Guidance for all viruses that are associated with severe disease
+
+
+
+
+
+
+
+
+
+
+Avian influenza A viruses with the potential to cause severe human disease currently include the following viruses detected in wild and domestic birds in the United States beginning in December 2014:
+
+Highly pathogenic avian influenza A (H5N2) virus
+Highly pathogenic avian influenza A (H5N8) virus
+Highly pathogenic avian influenza A (H5N1) virus
+Avian influenza A (H7N8) virus
+
+
+guidances – potential and severe
+
+
+
+Guidance Type
+
+
+Viruses
+
+
+
+Summary for Clinicians
+Summary of guidance for all viruses that have the potential to cause severe disease
+
+
+Testing and Reporting
+Guidance for all viruses that have the potential to cause severe disease
+
+
+Case Definitions
+HPAI H5 in the United States
+
+
+Infection Control
+See guidance for viruses associated with severe disease
+
+
+Treatment
+See guidance for viruses associated with severe disease
+
+
+Chemoprophylaxis of Persons Exposed to Birds
+Guidance for all viruses that have the potential to cause severe disease
+
+
+Chemoprophylaxis of Followup of Close Contacts
+See guidance for viruses associated with severe disease
+
+
+
+Avian influenza A viruses associated with severe human disease currently include the following:
+
+Low pathogenic avian influenza A (H7N9) virus
+Highly pathogenic Asian-origin avian influenza A (H5N1) virus
+
+
+guidances – potential and severe
+
+
+
+Guidance Type
+
+
+Viruses
+
+
+
+Summary for Clinicians
+Not available
+
+
+Testing and Reporting
+Guidance for all viruses that are associated with severe disease
+
+
+Case Definitions
+H7N9
+Asian-lineage H5N1
+
+
+Infection Control
+Guidance for all viruses that are associated with severe disease
+
+
+Treatment
+Guidance for all viruses that are associated with severe disease
+
+
+Chemoprophylaxis of Persons Exposed to Birds
+Guidance for all viruses that are associated with severe disease
+
+
+Chemoprophylaxis and Followup of Close Contacts
+Guidance for all viruses that are associated with severe disease
+
+
+
+
+
+           Email Address
+            
+          
+        

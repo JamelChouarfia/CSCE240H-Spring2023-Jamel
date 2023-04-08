@@ -1,0 +1,66 @@
+Background
+Avian influenza Type A viruses (bird flu viruses) do not normally infect people, but rare cases of human infection have occurred with some bird flu viruses. Illnesses in humans from bird flu virus infections have ranged in severity from no symptoms or mild illness (e.g., eye infection, upper respiratory symptoms) to severe disease (e.g., pneumonia) that resulted in death. Human infections with bird flu viruses have most often occurred after close or lengthy unprotected contact (i.e., not wearing gloves or respiratory protection or eye protection) with infected birds or places that sick birds or their saliva, mucous and feces have touched.
+Human infections with bird flu viruses can happen when virus gets into a person’s eyes, nose or mouth, or is inhaled. This can happen when virus is in the air (in droplets or possibly dust) and a person breathes it in, or possibly when a person touches something that has virus on it and then touches their mouth, eyes or nose. The spread of bird flu viruses from one infected person to a close contact is very rare, and when it has happened, it has not led to continued spread among people. Six main hemagglutinin (HA) subtypes of bird flu viruses have infected people to cause acute respiratory illness (H3, H5, H6, H7, H9, and H10 viruses). Among these, H5N1 and H7N9 viruses have caused the majority of infections in people. More information about bird flu in humans is available at Bird Flu Virus Infections in Humans.
+
+Current U.S. Bird Flu Situation in Humans
+
+Sporadic highly pathogenic avian influenza A(H5N1) virus infections in mammals have been reported in the United States, Canada, and other countries, but the risk to the general public from these viruses remains low. More information is available at Ask the Expert: Highly Pathogenic Avian Influenza A(H5N1) Viruses.
+The first case of an avian influenza A(H5N1) virus in a person in the United States was reported on April 28, 2022. More information about this case is available.
+Only four human infections with low pathogenic avian influenza (LPAI)*A(H7N2) viruses resulting in mild-to-moderate illness have ever been identified in the United States.
+
+The Current Risk to the General Public is Low
+
+The detections of H5 viruses in wild birds, poultry, some mammals, and in one person in the United States do not change the risk to the general public’s health, which CDC considers to be low. However, outbreaks in domestic commercial and backyard poultry flocks, in addition to infections in wild birds and some mammals, might place some groups of people, who may have job-related or recreational exposures to birds, at higher risk of infection. People with job-related or recreational exposures to birds or infected mammals should take appropriate precautions to protect against bird flu.
+Right now, the H5N1 bird flu situation remains primarily an animal health issue. However, CDC is watching this situation closely and taking routine preparedness and prevention measures in case this virus changes to pose a greater human health risk.
+Signals that could raise the public health risk might include multiple reports of H5N1 virus infections in people from exposure to birds, or identification of spread from one infected person to a close contact.
+No known human-to-human spread has occurred with the A(H5N1) virus that is currently circulating in birds in the United States and globally. Sporadic human cases of H5N1 reported with H5N1 viruses circulating in birds since 2021 have occurred following exposure to infected poultry. During past H5N1 bird flu virus outbreaks that have occurred in poultry globally, human infections were rare. Globally since 2003, countries have reported rare, sporadic human infections with H5N1 bird flu viruses to the World Health Organization (WHO). Monthly case counts are available on the WHO website.
+The spread of bird flu viruses from one infected person to a close contact has occurred rarely in other countries in the past, and when it has happened, it has been limited and not sustained, and did not spread beyond close contacts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More Information about this H5N1 Bird Flu Virus
+
+USDA has publicly posted the genetic sequences of several of recently detected H5N1 bird flu viruses found in U.S. wild birds and poultry. The viruses are from clade 2.3.4.4b,** which is the most common H5N1 bird flu virus worldwide at this time. Comparing information about these newer viruses to previously circulating H5N1 bird flu viruses helps inform the human health risk assessment.
+CDC has been comparing the properties of current H5N1 bird flu viruses to past H5N1 bird flu viruses and has found that current H5N1 bird flu viruses detected in the U.S. during late 2021 and 2022 are different from earlier H5N1 bird flu viruses.
+So far, current H5N1 bird flu viruses lack changes seen in the past that have been associated with viruses spreading easily among poultry, infecting people more easily, and causing severe illness in people.
+Since December 2021, fewer than 10 human cases of H5N1 have been reported globally. Illness in humans from all bird flu virus infections has ranged in severity from no symptoms or mild illness to severe disease that resulted in death. Total case counts for all human infections with H5N1 viruses reported since 1997 are available.
+These cases do not change the human risk assessment to the general public, which CDC considers to be low.
+
+
+Additional Resources
+
+Highlights in the History of Avian Influenza (Bird Flu) Timeline – 2020-2023
+CDC and USDA have developed guidance for specific audiences, including the general public, hunters [296 KB, 2 pages], poultry producers, poultry outbreak responders, and health care providers.
+A handout containing information and guidance for people exposed to birds with bird flu is available at What To Know About Bird Flu (cdc.gov) [154 KB, 2 pages].
+More information about how to protect yourself against bird flu is available.
+More information is available from CDC spotlight articles.
+Reported Global Reported Global Human Infections with Highly Pathogenic Avian Influenza A(H5N1) (HPAI H5N1) by Country, 1997-2022
+
+*Highly pathogenic avian influenza (HPAI) and Low pathogenic avian influenza (LPAI) are described in the Classification of bird flu viruses section.
+**Clades are described in the “Classification of bird flu viruses” section.
+

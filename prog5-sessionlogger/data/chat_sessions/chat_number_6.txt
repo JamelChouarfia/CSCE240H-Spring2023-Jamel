@@ -1,0 +1,13 @@
+ChatBOT: Hello, I am here to answer any questions you have about the Avian Flu virus. Please ask away!
+
+User: hi
+
+ChatBOT: Hello! What would you like to learn today?
+
+User: what cdc does
+
+ChatBOT: Here is what I have for that
+
+User: bye
+
+ChatBOT: Goodbye!
